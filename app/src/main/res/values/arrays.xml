@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bidding_subjects">
+        <item>Utilização imprópria de modalidade de licitação</item>
+        <item>Dispensa ou inexigibilidade de licitação irregulares</item>
+        <item>Ausência de procedimento licitatório para aquisição de materiais e contrtação de serviços</item>
+        <item>Não designação de fiscais de contratos</item>
+        <item>Direcionamento de licitação – limitação do competitório, fracionamento de despesas para não realização de licitação</item>
+        <item>Infringência ao princípio da economicidade na aquisição de bens</item>
+        <item>Demonstrativo de tempo de serviço incompleto ou incorreto</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="accountability_subjects">
+        <item>Ausência ou deficiência de prestação de contas de convênios e repasses</item>
+        <item>Aquisições a preços excessivos</item>
+        <item>Deficiência na liquidação de despesas</item>
+        <item>Terceirização irregular de serviços públicos</item>
+        <item>Contratação irregular de mão de obra e serviços de transporte escolar</item>
+        <item>Aquisição de peças para manutenção de veículos sem licitação</item>
+        <item>Pagamentos por serviços não executados</item>
+        <item>Despesas sem finalidade pública</item>
+        <item>Irregularidades em transferências de recursos públicos para ONGs</item>
+        <item>Terceirização irregular de serviços</item>
+        <item>Ausência ou deficiência na atuação da fiscalização tributária</item>
+        <item>Ausência de cobrança e prescrição dos créditos inscritos na dívida ativa</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="events_accountability_subjects">
+        <item>Ausência ou deficiência de prestação de contas de convênios e repasses</item>
+        <item>Aquisições a preços excessivos</item>
+        <item>Deficiência na liquidação de despesas</item>
+        <item>Terceirização irregular de serviços públicos</item>
+        <item>Contratação irregular de mão de obra e serviços de transporte escolar</item>
+        <item>Aquisição de peças para manutenção de veículos sem licitação</item>
+        <item>Pagamentos por serviços não executados</item>
+        <item>Despesas sem finalidade pública</item>
+        <item>Irregularidades em transferências de recursos públicos para ONGs</item>
+        <item>Terceirização irregular de serviços</item>
+        <item>Ausência ou deficiência na atuação da fiscalização tributária</item>
+        <item>Ausência de cobrança e prescrição dos créditos inscritos na dívida ativa</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="public_contest_subjects">
+        <item>Problemas na divulgação do edital</item>
+        <item>Incompatibilidade do conteúdo com as exigências do cargo</item>
+        <item>Desrespeito aos resultados finais</item>
+        <item>Restrições à inscrição</item>
+        <item>Acúmulos irregulares de cargos e/ou funções</item>
+        <item>Imposição de limite de idade sem embasamento legal</item>
+        <item>Ausência de definição de quesitos e de pontuações atribuídas</item>
+        <item>Não inclusão de matérias específicas para o cargo no edital</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="personnel_subjects">
+        <item>Descumprimento de carga horária</item>
+        <item>Desvio de função</item>
+        <item>Não nomeação em concurso público</item>
+        <item>Nepotismo</item>
+        <item>Pagamento de diárias</item>
+        <item>Aposentadoria irregular</item>
+        <item>Não realização de concurso público sem justificativas</item>
+        <item>Não determinação do prazo contratual, das funções a serem exercidas e quantidade de cargos</item>
+        <item>Não exigência da escolaridade para desempenho da função</item>
+        <item>Não realização de processo seletivo simplificado para as contratações temporárias de pessoal</item>
+        <item>Não apresentação de documento necessário à posse</item>
+        <item>Nomeação para cargo não criado por lei</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="patrimony_subjects">
+        <item>Deficiência, ausência de controle dos bens patrimoniais</item>
+        <item>Ausência ou atraso no inventário dos bens patrimoniais</item>
+        <item>Ausência ou deficiência de controle de estoque</item>
+        <item>Deficiência de controle sobre combustíveis</item>
+        <item>Deficiência de controle de sobre gastos com veículos</item>
+        <item>Outros</item>
+    </string-array>
+    <string-array name="building_subjects">
+        <item>Obra paralisada</item>
+        <item>Obra abandonada</item>
+        <item>Execução em desconformidade com o edital</item>
+        <item>Ausência de licitação, deficiência no orçamento</item>
+        <item>Orçamentos incompletos de obras e serviços de engenharia</item>
+        <item>Deficiências de controle na execução de obras</item>
+        <item>Ausência de formalização do recebimento das obras e/ou serviços</item>item>
+        <item>Pagamentos por serviços não executados</item>
+        <item>Outros</item>
+    </string-array>
+    <array name="categories">
+        <item>@array/bidding_subjects</item>
+        <item>@array/accountability_subjects</item>
+        <item>@array/events_accountability_subjects</item>
+        <item>@array/public_contest_subjects</item>
+        <item>@array/personnel_subjects</item>
+        <item>@array/patrimony_subjects</item>
+        <item>@array/building_subjects</item>
+    </array>
+    <string-array name="categories_names">
+        <item>Licitações</item>
+        <item>Prestação de contas</item>
+        <item>Prestação de contas de eventos</item>
+        <item>Concurso público</item>
+        <item>Área de pessoal</item>
+        <item>Administração de materiais e patrimônio</item>
+        <item>Obras</item>
+    </string-array>
+</resources>
